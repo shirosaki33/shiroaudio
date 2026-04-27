@@ -383,11 +383,3 @@ Then choose 1, 2, or 3.
 ```
 
 That is the whole idea.
-
----
-
-## License
-
-Use freely in personal workflows.
-
-If you modify or publish this, credit is appreciated.
