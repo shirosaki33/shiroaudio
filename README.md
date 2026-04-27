@@ -2,7 +2,7 @@
 
 Small audio utility nodes for ComfyUI.
 
-This pack helps video workflows choose between different audio sources and clean common silence problems from generated voice.
+This pack helps video workflows choose between different audio sources and clean common silence problems from generated sounds.
 
 Main idea:
 
